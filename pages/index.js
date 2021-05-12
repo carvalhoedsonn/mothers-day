@@ -17,7 +17,7 @@ export default function Home() {
         >
           <Flex direction="column" marginRight="100px" padding="10px">
             <Text fontSize="25px" fontWeight="bold" color="#C769AA">
-              FELIZ DIA DAS MÃES
+              HAPPY MOTHERS DAY
             </Text>
             <Text
               fontSize="20px"
@@ -26,7 +26,7 @@ export default function Home() {
               marginTop="5px"
               marginBottom="20px"
             >
-              O dia das mulheres mais perfeitas, mães ❤️
+              The most perfect women's day, mothers ❤️
             </Text>
             <Collapse startingHeight={0} in={show}>
               <Text maxWidth="599px" color="#595F4F">

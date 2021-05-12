@@ -1,34 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="./.github/assets/Logo.png" width="300px" />
+</div>
 
-## Getting Started
+  # 🗂️ Topics
+   * <a href="#About"> About</a>
+   * <a href="#Layout"> Layout</a>
+   * <a href="#Features"> Features</a>
+   * <a href="#How-to-use"> How to use</a>
+      * <a href="#Prerequisites"> Prerequisites</a>
+      * <a href="#Running-the-app"> Running the app</a>
+      * <a href="#Running-the-server"> Running the server</a>
+   * <a href="#Technologies"> Technologies</a>
+   * <a href="#License"> License</a>
 
-First, run the development server:
+  <h1 id="About">🌱About</h1>
+  <p>Simple application created to honor all mothers.</p>
+  <a href="https://mothers-day-gamma.vercel.app">Click here to access the website.</a>
 
-```bash
-npm run dev 
-# or
-yarn dev
-```
+  <h1 id="Layout">💅🏻Layout</h1>
+  <img src="./.github/assets/Card.png"/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <h1 id="How-to-use">🤓How to use</h1>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+  <h3 id="Prerequisites">Prerequisites</h3>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+  <p>To be able to use the application, you need the following tools: </p>
+  <a href="https://git-scm.com"> Git </a> •
+  <a href="https://nodejs.org/en/"> Node.js </a> 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+  <h3 id="Running-the-app">Running the app</h3>
 
-## Learn More
+  ```bash
+  # Clone this repository
+  $ git clone <https://github.com/ejscf/mothers-day.git>
 
-To learn more about Next.js, take a look at the following resources:
+  # Open the APP folder on the terminal
+  $ cd mothers-day
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  # Install all APP modules
+  $ npm install or yarn install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+  # Now just turn on the APP
+  $ npm dev or yarn dev
+  ```
 
-## Deploy on Vercel
+  <h1 id="Technologies">💻Technologies</h1>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  <p>The following tools were used in the construction of the project:</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  - <a href="https://pt-br.reactjs.org">React</a>
+  - <a href="https://nextjs.org">Next.js</a>
+  - <a href="https://www.typescriptlang.org/">Javascript</a>
+
+  <h1 id="License">📜License</h1>
+
+  ![LICENSE](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=32b768&logo=rocket-chat) 
